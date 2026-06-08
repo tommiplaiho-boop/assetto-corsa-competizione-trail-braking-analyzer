@@ -1,6 +1,4 @@
 # ACC Trail Braking Pro Analyzer
-
-# ACC Trail Braking Pro Analyzer
 > **Current Project Status: v0.0.1-alpha** > This is an early alpha release. The core telemetry framework and strict scoring algorithm are fully functional, but features are subject to further refinement based on testing and user feedback.
 
 A real-time kinetic telemetry overlay for Assetto Corsa Competizione (ACC) designed specifically to refine left-foot trail braking muscle memory. 
@@ -25,6 +23,7 @@ The easiest way to use the analyzer without installing Python:
 2. Launch ACC and load into a track.
 3. Simply double-click the `.exe` file to start the analyzer.
 4. Drive! The analyzer will automatically start recording when you apply brake pressure and are moving above 30 km/h.
+<img width="426" height="401" alt="brake_20260608_161128_score_5" src="https://github.com/user-attachments/assets/eff27767-23d6-459c-b10d-ebb62e905480" />
 
 ## Developer Installation (Python Version)
 
