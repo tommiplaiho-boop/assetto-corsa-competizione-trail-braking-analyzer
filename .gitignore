@@ -1,0 +1,4 @@
+# Älä lataa näitä kansioita GitHubiin
+images/
+data/
+__pycache__/
